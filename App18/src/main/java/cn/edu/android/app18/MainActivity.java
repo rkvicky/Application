@@ -23,6 +23,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class MainActivity extends AppCompatActivity {
+
     private ImageView imageView;
     private TextView textView;
     // 记录ImageView当前的位置
